@@ -1,6 +1,6 @@
-defmodule ExTractors do
+defmodule ExTractor do
   @moduledoc """
-  Documentation for `ExTractors`.
+  Documentation for `ExTractor`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule ExTractors do
 
   ## Examples
 
-      iex> ExTractors.hello()
+      iex> ExTractor.hello()
       :world
 
   """
